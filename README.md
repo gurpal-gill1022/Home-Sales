@@ -19,7 +19,7 @@ As per the results, we can determine that cached data is accessed faster at a at
 ## Files
 1. Home_Sales_colab file
 
-# Dependencies
+## Dependencies
 1. Python
 2. Pandas
 3. Spark
